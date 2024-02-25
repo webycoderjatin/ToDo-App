@@ -2,6 +2,8 @@
 
 This is a simple To-Do List application built with React. It allows users to add tasks, mark them as completed, and visualize their tasks in a list format.
 
+## Live Preview : [Click me](https://to-do-app-nu-murex.vercel.app/)
+
 ## Features
 
 - Add tasks: Users can input their tasks in the provided input field and add them to the list.
